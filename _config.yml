@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4355532
+color:
+  saturation: 0.7728249
+  lightness: 0
+  brandStrength: 0.4312567
+  rhythmicContrast: 0.7234157
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Rob Hashem
